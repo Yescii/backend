@@ -1,14 +1,14 @@
 [
   {
-    "name": "project1",
+    "name": "Posta",
     "live": "https://app.herokuapp.com/whatever",
-    "git": "http://www.github.com/username/reponame",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "git": "https://github.com/Yescii/Posta",
+    "image": "https://i.imgur.com/a7ZpPYy.png"
   },
   {
-    "name": "project2",
-    "live": "https://app.netlify.app/whatever",
-    "git": "http://www.github.com/username/reponame",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "name": "Pokemon-Search",
+    "live": "https://gracious-hermann-b4ec99.netlify.app/",
+    "git": "https://github.com/Yescii/pokemon-search",
+    "image": "https://i.imgur.com/93TcS8F.png"
   }
 ]
